@@ -4,7 +4,7 @@ import Logo from './logo';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>react-native-svg: v15.3.0</Text>
+      <Text>react-native-svg: v15.4.0</Text>
       <Logo />
     </View>
   );
